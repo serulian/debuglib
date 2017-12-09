@@ -3,6 +3,6 @@ from webidl`console` import console
 /**
  * Logs a value to the console.
  */
-function<void> Log(value any) {
+function Log(value any) {
 	console.log(value)
 }
